@@ -21,9 +21,9 @@ I’m a **Computer Science student** passionate about building software that mak
 - **[Extrawrite]**: A note-taking and publishing platform rethinking how we organize and interact with digital notes. Inspired by the limitations of current tools, *Extrawrite* offers full customizability for note design, moving beyond markdown to HTML-based flexibility. 🚀
 
 ### 💡 What I'm Learning
-- **TypeScript**: Leveraging static typing for more robust JavaScript applications.
-- **JavaScript Promises**: Enhancing asynchronous programming with promises.
-- **Vim for VSCode**: Mastering the productivity boost of Vim keybindings inside VSCode.
+- **DevOps**: Studying SDLC and advanced topics for building efficient softwares.
+- **Computer Networks**: For efficient managing of traffics and satisfying my curiousity.
+- **Machine Learning**: Exploring advanced mathematical aspects of Machine Learning.
 
 ### 🌱 Philosophy
 I’m always exploring ways to improve productivity without adding complexity. I believe in reducing the time spent "learning how to learn" — focusing on *getting things done*.
