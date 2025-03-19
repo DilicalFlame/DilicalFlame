@@ -13,20 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Devesh! 👋
-
-I’m a **Computer Science student** passionate about building software that makes the world a better place for everyone. My interests span software development, science, and creative hobbies like sketching, story-writing, poetry, and music.
-
-### 🔭 Current Projects
-- **[Extrawrite]**: A note-taking and publishing platform rethinking how we organize and interact with digital notes. Inspired by the limitations of current tools, *Extrawrite* offers full customizability for note design, moving beyond markdown to HTML-based flexibility. 🚀
-
-### 💡 What I'm Learning
-- **DevOps**: Studying SDLC and advanced topics for building efficient softwares.
-- **Computer Networks**: For efficient managing of traffics and satisfying my curiousity.
-- **Machine Learning**: Exploring advanced mathematical aspects of Machine Learning.
-
-### 🌱 Philosophy
-I’m always exploring ways to improve productivity without adding complexity. I believe in reducing the time spent "learning how to learn" — focusing on *getting things done*.
+- 👋 Hi, I’m Devesh @DilicalFlame
+- 🌱 I am currently learning android development
+- 😄 Pronouns: he/him
 
 ### 🎨 Hobbies
 - **Sketching**: I enjoy visual creativity, which also complements my passion for software design.
